@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DS_SIIRD">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>server=ITPOR-IRD\PRUEBAS;database=IRDCOL;Trusted_connection=Yes</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+  </ConnectionProperties>
+  <DataSourceID>4fe55dd6-9d37-4b95-9c53-f4bd12490849</DataSourceID>
+</RptDataSource>
