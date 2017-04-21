@@ -26,7 +26,7 @@
         <OutputPath>bin\Debug</OutputPath>
         <TargetServerVersion>SSRS2008R2</TargetServerVersion>
         <TargetServerURL>http://itpor-ird/ReportServer_PRUEBAS</TargetServerURL>
-        <TargetFolder>Administracion</TargetFolder>
+        <TargetFolder>saf</TargetFolder>
         <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
         <TargetDatasetFolder>Datasets</TargetDatasetFolder>
         <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
